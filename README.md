@@ -1,2 +1,5 @@
 MeteoStation for Arduino
-for now it's just 1602 i2c display with DHT22 and BMP 180 sensors
+LCD1602 for output
+DS3231 - clock
+DHT22 - humidity and temperatur
+BMP180 - pressure
